@@ -1,0 +1,4 @@
+twilio:
+  account_sid: You need to enter the account_sid given to you from your Twilio account.
+  auth_token: You will need to enter the auth token provided to you from your Twilio account.
+  trail_number: +14124263576

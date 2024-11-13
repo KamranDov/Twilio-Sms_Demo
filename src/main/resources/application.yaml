@@ -1,0 +1,4 @@
+twilio:
+  account_sid: You need to enter the account_sid given to you from your Twilio account.
+  auth_token: You will need to enter the auth token provided to you from your Twilio account.
+  trail_number: To send sms from your Twilio account, you must enter the mobile number provided to you when you signed up as a tracker.
